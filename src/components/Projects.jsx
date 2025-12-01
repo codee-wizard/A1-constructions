@@ -4,12 +4,12 @@ import { ArrowUpRight, MapPin } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
-    { title: 'PWD Infrastructure', location: 'Uttar Pradesh', category: 'Government', image: 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?q=80&w=2070&auto=format&fit=crop' },
-    { title: 'DUDA Development', location: 'Multiple Districts', category: 'Urban', image: 'https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?q=80&w=1974&auto=format&fit=crop' },
-    { title: 'Nagar Palika Complex', location: 'City Center', category: 'Civic', image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop' },
-    { title: 'MDA Housing', location: 'Meerut', category: 'Residential', image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2089&auto=format&fit=crop' },
-    { title: 'State Highways', location: 'Connecting Districts', category: 'Transport', image: 'https://images.unsplash.com/photo-1545558014-8692077e9b5c?q=80&w=2070&auto=format&fit=crop' },
-    { title: 'Public Parks', location: 'Green Zone', category: 'Landscape', image: 'https://images.unsplash.com/photo-1496664444929-8c75efb9546f?q=80&w=2070&auto=format&fit=crop' },
+    { title: 'PWD Infrastructure', location: 'Uttar Pradesh', category: 'Government', image: './pwd.jpeg' },
+    { title: 'DUDA Development', location: 'Multiple Districts', category: 'Urban', image: './Duda.jpeg' },
+    { title: 'Nagar Palika Complex', location: 'City Center', category: 'Civic', image: './nagarP.jpeg' },
+    { title: 'MDA Housing', location: 'Meerut', category: 'Residential', image: './Development.jpeg' },
+    { title: 'State Highways', location: 'Connecting Districts', category: 'Transport', image: './stateh.jpeg' },
+    { title: 'Public Parks', location: 'Green Zone', category: 'Landscape', image: './Publicp.jpeg' },
   ];
 
   return (
