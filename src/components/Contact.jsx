@@ -45,12 +45,12 @@ const Contact = () => {
             {
               icon: <MapPin size={24} />,
               title: "Head Office",
-              text: "123 Construction Avenue, Civil Lines, Meerut, Uttar Pradesh - 250001",
+              text: "7, Hari Vandhan city, Jansath Road, Muzaffarnagar, Uttar Pradesh-251001",
             },
             {
               icon: <Phone size={24} />,
               title: "Phone",
-              text: "+91 98765 43210 | +91 12345 67890",
+              text: "+91 90688 51008 | +91 80579 01800",
             },
             {
               icon: <Mail size={24} />,
